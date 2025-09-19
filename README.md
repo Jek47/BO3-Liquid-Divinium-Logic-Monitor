@@ -1,4 +1,4 @@
-[]([https://i.ibb.co/whvnt5G5/titleimage.png](https://iili.io/K7MSatV.png))
+[![](https://iili.io/K7MSatV.png)](https://iili.io/K7MSatV.png))
 # BO3-Liquid-Divinium-Logic-Monitor
 A Black Ops 3 zombies mod that displays, in real-time, the results of in-game probability calculations used to determine Liquid Divinium drops.
 
@@ -17,6 +17,6 @@ If you want to compile the mod yourself, and/or tweak the mod's code, you can fo
 
 ## Video
 You can see the mod in action on the video below.  
-I earn Divinium at [19:10](https://www.youtube.com/watch?v=qT-GNOFAL8Y&t=1150), [56:55](https://www.youtube.com/watch?v=qT-GNOFAL8Y&t=3415) and [1:04:35](https://www.youtube.com/watch?v=qT-GNOFAL8Y&t=3995).  
+I earn Divinium at [19:10](https://www.youtube.com/watch?v=qT-GNOFAL8Y&t=1150), [56:55](https://www.youtube.com/watch?v=qT-GNOFAL8Y&t=3415) and [1:04:35](https://www.youtube.com/watch?v=qT-GNOFAL8Y&t=3875).  
 
 [![BO3 Liquid Divinium Monitor Mod Testing](https://img.youtube.com/vi/qT-GNOFAL8Y/0.jpg)](https://www.youtube.com/watch?v=qT-GNOFAL8Y)
