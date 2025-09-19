@@ -1,4 +1,4 @@
-[![](https://iili.io/K7MSatV.png)](https://iili.io/K7MSatV.png))
+[![](https://iili.io/K7MSatV.png)](https://iili.io/K7MSatV.png)
 # BO3-Liquid-Divinium-Logic-Monitor
 A Black Ops 3 zombies mod that displays, in real-time, the results of in-game probability calculations used to determine Liquid Divinium drops.
 
