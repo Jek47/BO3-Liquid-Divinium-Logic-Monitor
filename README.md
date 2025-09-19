@@ -3,7 +3,7 @@ A Black Ops 3 zombies mod that displays, in real-time, the results of in-game pr
 
 This mod doesn't change how the game functions in any way, it just displays the outcomes of each test that the game runs to determine when to award the player with Liquid Divinium. 
 
-I made this for the purpose of supporting my explanation of how Liquid Divinium drops are actually determined, since the community still doesn't seem to fully understand how it works, and even the Call of Duty Wiki currently states that:  
+I made this for the purpose of supporting my explanation of how Liquid Divinium drops are actually determined, since the community still doesn't seem to fully understand how it works, and even the [Call of Duty Wiki](https://callofduty.fandom.com/wiki/Liquid_Divinium) currently states that:  
 
 *"the exact algorithm which is used to determine a Divinium drop is still somewhat of a mystery"*
 
