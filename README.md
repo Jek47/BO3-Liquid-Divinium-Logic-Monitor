@@ -10,6 +10,6 @@ I made this for the purpose of supporting my explanation of how Liquid Divinium 
 If you want to learn more about how the game actually makes the decisions, I broke it down into Pseudo code on [this Reddit post](https://www.reddit.com/r/CODZombies/comments/1ncxtuq/liquid_divinium_earning_logic/).
 
 ## Instructions
-If you just want to inject the mod, you can download the **compiled.gsic** file above and follow [this tutorial](https://www.youtube.com/watch?v=7MepTbdJlmU) from 04:16 onwards (you can skip everything before that).
+If you just want to inject the mod, you can download the **compiled.gsic** file above and follow [this tutorial](https://www.youtube.com/watch?v=7MepTbdJlmU&t=256) from 04:16 onwards (you can skip everything before that).
 
 If you want to compile the mod yourself, and/or tweak the mod's code, you can follow the first 03:40 of [this tutorial](https://www.youtube.com/watch?v=7MepTbdJlmU) on how to set up the compiler. 
